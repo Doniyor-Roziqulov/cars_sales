@@ -32,7 +32,7 @@ The dashboard consists of two interactive pages:
 
 ## 📊 Dashboard 1 — Sales Overview
 
-![Car Sales Overview Dashboard](dashboard1.jpg)
+![Car Sales Overview Dashboard](images/dashboard1.jpg)
 
 The Overview Dashboard provides a summary of car sales performance through interactive visualizations.
 
@@ -57,7 +57,7 @@ The Overview Dashboard provides a summary of car sales performance through inter
 
 ## 📋 Dashboard 2 — Sales Details
 
-![Car Sales Details Dashboard](dashboard2.png)
+![Car Sales Details Dashboard](images/dashboard2.png)
 
 The Details Dashboard provides transaction-level information for a more detailed analysis of car sales.
 
